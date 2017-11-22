@@ -7,11 +7,14 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
+  
 }
 
 .navigation li {
   font-weight: 100;
   letter-spacing: 2px;
+  display: inline-block;
+  margin: 10px;
 }
 
 .navigation  li.logo {
@@ -19,22 +22,29 @@ body {
   font-size: 18px;
   font-weight: 700;
   letter-spacing: 4px;
+  
 }
 
 #banner {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
   background-position: bottom center;
-  height: 700px;
+  height: 300px;
   width: 100%;
 }
 
 #banner .content h1 {
   position: relative;
-  top: 50px;
+  top: 100px;
   width: 400px;
   margin: 0 auto;
   border: 3px solid white
+}
+
+#biopic{
+  
+  height :250px;
+  width: 100px%
 }
 
 #main {
@@ -45,7 +55,7 @@ body {
 
 h1 {
   color: white;
-  font-size: 42px;
+  font-size: 60px;
   font-weight: 600;
   text-align: center;
 }
@@ -80,7 +90,7 @@ p {
   color: DarkGrey;
   font-size: 14px;
   font-weight: 200;
-  text-align: center;
+  text-align: left;
 }
 
 .share {
