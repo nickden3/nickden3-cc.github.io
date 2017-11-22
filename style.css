@@ -57,8 +57,13 @@ body {
 #main {
   padding: 40px;
   text-align: left;
-  
 }
+
+#projects {
+  color: black;
+  font-size: 36px;  
+}
+  
 
 h1 {
   color: white;
