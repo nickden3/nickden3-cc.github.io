@@ -69,7 +69,10 @@ body {
 .projects a{
   text-decoration: none;   
 }
-  
+
+.projects a:hover{
+  color:blue;
+}  
 
 h1 {
   color: white;
