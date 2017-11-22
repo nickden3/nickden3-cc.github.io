@@ -59,7 +59,7 @@ body {
   text-align: left;
 }
 
-#projects {
+.projects ul {
   color: black;
   font-size: 36px;  
   font-weight : 100;
