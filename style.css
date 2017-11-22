@@ -35,7 +35,7 @@ body {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-6/htmlcss1-img_tahoe.jpeg");
   background-size: cover;
   background-position: bottom center;
-  height: 400px;
+  height: 500px;
   width: 100%;
 }
 
@@ -62,8 +62,7 @@ body {
 .projects{
   color: black;
   font-size: 36px;  
-  font-weight : 100;
-  text-decoration: none;
+  font-weight : 500;
 }
 
 .projects a{
