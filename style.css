@@ -97,11 +97,11 @@ p {
 
 .share {
   border: 1px solid LightGrey;
-  padding: 40px 0px;
+  padding: 20px 2px;
   position: relative;
+  margin: 0 auto;
   text-align: center;
   width: 100%;
-  margin-top : 70px;
 }
 
 .share a {
