@@ -115,6 +115,22 @@ p {
   line-height: 40px;
 }
 
+.projectDesc {
+  color: black;
+  font-size: 28px;
+  line-height: 40px;
+}
+
+.projDesc a{
+  color:black;
+  text-decoration: none;
+  font-weight : 500;
+}
+
+.proDesc a:hover{
+  color:blue;
+}  
+  
 .pull-quote {
 }
 
