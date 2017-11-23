@@ -51,7 +51,7 @@ body {
 #projectPics{
   width :100%;
   text-align: center;
-  
+  display: inline-block;
   margin: 0 auto;
 }
 
