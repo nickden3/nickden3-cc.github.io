@@ -118,6 +118,11 @@ p {
   line-height: 40px;
 }
 
+a:hover{
+  color: blue;
+  text-decoration: underline;
+}
+
 .projects p {
   color: black;
   font-size: 28px;
