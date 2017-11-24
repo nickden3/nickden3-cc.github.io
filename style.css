@@ -52,6 +52,7 @@ body {
   width :100%;
   text-align: center;
   display: block;
+  left: 50%;
   margin: 0 auto;
   
 }
