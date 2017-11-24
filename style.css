@@ -49,11 +49,10 @@ body {
 
 
 #projectPics{
-  width :100%;
-  text-align: center;
+  margin-right: 10px;
+  
   display: block;
-  padding: 40px;
-  margin: 0 auto;
+  
 }
 
 #biopic{ 
